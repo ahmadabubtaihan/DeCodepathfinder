@@ -33,7 +33,7 @@ Due to the rapid evolution of Information Technology fields, students often stru
 
 ---
 
-## 👥 User Roles | أدوار المستخدمين في النظام
+## 👥 System User Roles | أدوار المستخدمين في النظام
 
 1. **Admin:** Full control over platform content (courses, domains, tools, jobs, training), user accounts, reviews, and system monitoring.
 2. **Student:** Register/Login (Email or Google), enroll in free/paid courses, track learning progress, rate/comment on courses, and contact technical support.
